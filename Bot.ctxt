@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bot()
+comment1.params=
+comment1.target=void\ help()
+comment10.params=seconds
+comment10.target=void\ wait(int)
+comment11.params=
+comment11.target=void\ off()
+comment2.params=
+comment2.target=void\ header()
+comment3.params=
+comment3.target=void\ cmdLoop()
+comment4.params=
+comment4.target=void\ fight()
+comment5.params=
+comment5.target=void\ chance()
+comment6.params=
+comment6.target=void\ askrommel()
+comment7.params=
+comment7.target=void\ coinflip()
+comment8.params=
+comment8.target=void\ rng()
+comment9.params=
+comment9.target=void\ alphabetize()
+numComments=12

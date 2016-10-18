@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FantasyNameGen()
+comment1.params=
+comment1.target=void\ qLoop()
+comment2.params=
+comment2.target=void\ getInitials()
+comment3.params=
+comment3.target=void\ generateName()
+comment4.params=
+comment4.target=void\ outputName()
+comment5.params=
+comment5.target=void\ askAgain()
+numComments=6

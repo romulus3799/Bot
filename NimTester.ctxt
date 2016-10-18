@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ title()
+comment0.text=\r\n\ \ \ \ public\ static\ void\ header()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ System.out.println("Romil\ Havewala");\r\n\ \ \ \ \ \ \ \ \ System.out.println("Lab");\r\n\ \ \ \ \ \ \ \ \ System.out.println("The\ Game\ of\ Nim\\n\\n");\r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

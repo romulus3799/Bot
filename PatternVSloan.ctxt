@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PatternVSloan()
+comment1.params=
+comment1.target=void\ getInputs()
+comment2.params=
+comment2.target=void\ generate()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=
+comment5.target=void\ execute()
+comment6.params=seconds
+comment6.target=void\ wait(int)
+numComments=7

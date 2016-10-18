@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=seconds
+comment0.target=void\ load(int)
+comment1.params=seconds
+comment1.target=void\ wait(int)
+numComments=2
